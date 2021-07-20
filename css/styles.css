@@ -10954,7 +10954,7 @@ p {
   background-image: url("../img/BGFUZZ.jpg");
   opacity:0.8;
 }
-header.masthead {
+header.masthead { 
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
